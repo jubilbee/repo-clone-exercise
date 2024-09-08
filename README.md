@@ -6,6 +6,7 @@ A simple practice exercise for students in the Code:You Intro module. Students w
 - push made changes to their own repo
 
 ## Tasks
+- [ ] Create a file called ```about.md``` and perform the following tasks in it. As you progress, check off the tasks you've completed and ensure that you're committing the README changes as well.
 - [ ] Create a first level heading with your name
 - [ ] Create a short "about you" text
 - [ ] Create a third level heading with the title "Hobbies"
