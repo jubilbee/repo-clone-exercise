@@ -2,7 +2,7 @@
 
 I'm very excited to be learning with everyone here at Code:You! Outside of class I spend a lot of time drawing, crafting, and reading! My favorite genres are fantasy and mystery. I can't wait to learn more about the different coding languages!
 
-## Hobbies
+### Hobbies
 
 - Crochet
 - Needle Felting
